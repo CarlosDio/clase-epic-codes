@@ -1,0 +1,7 @@
+Jueves 20 de Abril de 2017
+--------------------------
+
+Pensar a ver como poner la imagen en el listado y.... si no hay imagen, que ponga una generica, del tipo.... imagen no disponible
+
+
+bitbucket.org

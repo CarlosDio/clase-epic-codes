@@ -1,0 +1,34 @@
+/*#### Fichero css/estilos.css*/
+body{
+	text-align: center;
+}
+#contenedor{
+	text-align: left;
+	width: 800px;
+	margin: 0px auto;
+}
+#menu{
+	width: 210px;
+	padding: 20px;
+	float:left;
+	text-align: right;
+}
+#menu li{
+	list-style: none;
+}
+#contenido{
+	width: 508px;
+	padding: 20px;
+	float:left;
+	border-left: 1px solid black;
+}
+
+#contenido .post{
+	border: 1px solid black;
+	padding: 20px; 
+	margin: 20px;
+}
+
+#contenido .post footer{
+	text-align: right;
+}
